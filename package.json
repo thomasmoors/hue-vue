@@ -1,0 +1,19 @@
+{
+  "name": "vue-hue",
+  "version": "1.0.0",
+  "description": "A frontend for Hue",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npm install bootstrap --prefix ./libs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gratisapi-nl/hue-vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gratisapi-nl/hue-vue/issues"
+  },
+  "homepage": "https://github.com/gratisapi-nl/hue-vue#readme"
+}
